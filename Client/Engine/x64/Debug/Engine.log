@@ -1,0 +1,52 @@
+﻿  Device.cpp
+  Engine.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\xmemory(1928,9): error C2079: 'std::_Wrap<_Ty>::_Value'은(는) 정의되지 않은 class 'Device'을(를) 사용합니다.
+          with
+          [
+              _Ty=Device
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\memory(2031): message : 컴파일되는 클래스 템플릿 인스턴스화 'std::_Wrap<_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=Device
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\memory(2729): message : 컴파일되는 클래스 템플릿 인스턴스화 'std::_Ref_count_obj2<Device>'에 대한 참조를 확인하세요.
+C:\Users\tmdwn\source\repos\Client\Engine\Engine.cpp(12): message : 컴파일되는 함수 템플릿 인스턴스화 'std::shared_ptr<Device> std::make_shared<Device,>(void)'에 대한 참조를 확인하세요.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\xmemory(1928,9): error C2079: 'std::_Wrap<_Ty>::_Value'은(는) 정의되지 않은 class 'CommandQueue'을(를) 사용합니다.
+          with
+          [
+              _Ty=CommandQueue
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\memory(2031): message : 컴파일되는 클래스 템플릿 인스턴스화 'std::_Wrap<_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=CommandQueue
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\memory(2729): message : 컴파일되는 클래스 템플릿 인스턴스화 'std::_Ref_count_obj2<CommandQueue>'에 대한 참조를 확인하세요.
+C:\Users\tmdwn\source\repos\Client\Engine\Engine.cpp(13): message : 컴파일되는 함수 템플릿 인스턴스화 'std::shared_ptr<CommandQueue> std::make_shared<CommandQueue,>(void)'에 대한 참조를 확인하세요.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\xmemory(1928,9): error C2079: 'std::_Wrap<_Ty>::_Value'은(는) 정의되지 않은 class 'SwapChain'을(를) 사용합니다.
+          with
+          [
+              _Ty=SwapChain
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\memory(2031): message : 컴파일되는 클래스 템플릿 인스턴스화 'std::_Wrap<_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=SwapChain
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\memory(2729): message : 컴파일되는 클래스 템플릿 인스턴스화 'std::_Ref_count_obj2<SwapChain>'에 대한 참조를 확인하세요.
+C:\Users\tmdwn\source\repos\Client\Engine\Engine.cpp(14): message : 컴파일되는 함수 템플릿 인스턴스화 'std::shared_ptr<SwapChain> std::make_shared<SwapChain,>(void)'에 대한 참조를 확인하세요.
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\xmemory(1928,9): error C2079: 'std::_Wrap<_Ty>::_Value'은(는) 정의되지 않은 class 'DescriptorHeap'을(를) 사용합니다.
+          with
+          [
+              _Ty=DescriptorHeap
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\memory(2031): message : 컴파일되는 클래스 템플릿 인스턴스화 'std::_Wrap<_Ty>'에 대한 참조를 확인하세요.
+          with
+          [
+              _Ty=DescriptorHeap
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\memory(2729): message : 컴파일되는 클래스 템플릿 인스턴스화 'std::_Ref_count_obj2<DescriptorHeap>'에 대한 참조를 확인하세요.
+C:\Users\tmdwn\source\repos\Client\Engine\Engine.cpp(15): message : 컴파일되는 함수 템플릿 인스턴스화 'std::shared_ptr<DescriptorHeap> std::make_shared<DescriptorHeap,>(void)'에 대한 참조를 확인하세요.
+  EnginePch.cpp
+  코드를 생성하고 있습니다...
